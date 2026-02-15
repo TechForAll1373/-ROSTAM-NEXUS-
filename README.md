@@ -1,7 +1,7 @@
 # ROSTAM NEXUS 💚🤍❤️ 🟢⚪🔴  
 ### The Infinite Open‑Source Armory — Modern · Advanced · Unstoppable  
 
-[![GitHub stars](https://img.shields.io/github/stars/TechForAll1373/ROSTAM-NEXUS?style=social)](https://github.com/TechForAll1373/ROSTAM-NEXUS)  
+[![GitHub stars](https://img.shields.io/github/stars/TechForAll1373/ROSTAM-NEXUS-IR?style=social)](https://github.com/TechForAll1373/ROSTAM-NEXUS-IR)  
 [![Telegram Channel](https://img.shields.io/badge/Telegram-CafePersiansIO-2CA5E0?logo=telegram)](https://t.me/cafepersiansio)  
 [![Email](https://img.shields.io/badge/Email-cafepersians%40gmail.com-red?logo=gmail)](mailto:cafepersians@gmail.com)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
