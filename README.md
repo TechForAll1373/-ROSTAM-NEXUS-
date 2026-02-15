@@ -1,7 +1,4 @@
-# 💚🤍❤️ ROSTAM NEXUS 🟢⚪🔴  
-**The Infinite Armory – Ultimate Open Source Tool Collection**  
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?logo=telegram)](https://t.me/cafepersiansio)  
+ [![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?logo=telegram)](https://t.me/cafepersiansio)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?logo=gmail)](mailto:cafepersians@gmail.com)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
